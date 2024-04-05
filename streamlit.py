@@ -5,8 +5,6 @@ import warnings
 import plotly.express as px
 import plotly.graph_objects as go
 import numpy as np
-import boto3
-from io import StringIO
 warnings.filterwarnings("ignore")
 
 # Function to create a bar chart of experience 
